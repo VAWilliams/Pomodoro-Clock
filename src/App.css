@@ -1,0 +1,35 @@
+div#controllers {
+  display: flex;
+  justify-content: center;
+}
+.length-controller {
+  text-align: center;
+  width: 300px;
+}
+.length-controller span {
+  font-size: 25px;
+  padding: 10px;
+  max-height: 40px;
+}
+
+#clock {
+  max-width: 300px;
+  text-align: center;
+  margin: 30px auto;
+  padding: 20px;
+  border: 2px #007bff solid;
+  border-radius: .25rem;
+}
+
+.time {
+  font-family: digital, Consolas;
+  font-size: 5rem;
+}
+
+#buttons {
+  display: flex;
+  width: 300px;
+  margin: auto;
+  padding: 30px;
+  justify-content: space-evenly;
+}

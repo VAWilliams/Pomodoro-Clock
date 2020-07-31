@@ -1,0 +1,8 @@
+#root {
+  font-family: Consolas, sans-serif;
+}
+#root h1 {
+  font-weight: bold;
+  text-align: center;
+  padding: 5%;
+}
